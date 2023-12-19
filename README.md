@@ -16,3 +16,7 @@
 4). Run (flutter run) atau run and debug option
 
 # Screenshot badge dari course android(g.dev/sarmidasinaga)
+![image](https://github.com/sarmidasinaga/UAS-PemrogramanMobile-Sarmida/assets/93966054/d23cf8f0-be20-4b99-b723-837ffb4f89e0)
+
+# Sertifikat course kotlin dicoding
+[sertif-kotlin.pdf](https://github.com/sarmidasinaga/UAS-PemrogramanMobile-Sarmida/files/13709981/sertif-kotlin.pdf)
